@@ -1,0 +1,22 @@
+##################################################################
+# Fichiers et dossiers générés par Unreal Engine à ignorer
+##################################################################
+
+# Dossiers générés
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Fichiers temporaires liés à Visual Studio / Visual Studio Code
+*.sln
+*.suo
+*.user
+*.userprefs
+.vs/
+.vscode/
+
+# Logs et autres
+*.log
+*.tmp
+~*
